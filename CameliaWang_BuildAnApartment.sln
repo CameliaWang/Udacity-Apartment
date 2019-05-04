@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameliaWang_BuildAnApartment", "CameliaWang_BuildAnApartment.csproj", "{A24F1041-5924-559A-137B-C0010F54F0CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameliaWang_BuildAnApartment.Editor", "CameliaWang_BuildAnApartment.Editor.csproj", "{6F370559-75C0-401C-1D0E-8DBAF4DC3400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24F1041-5924-559A-137B-C0010F54F0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24F1041-5924-559A-137B-C0010F54F0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24F1041-5924-559A-137B-C0010F54F0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24F1041-5924-559A-137B-C0010F54F0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F370559-75C0-401C-1D0E-8DBAF4DC3400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F370559-75C0-401C-1D0E-8DBAF4DC3400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F370559-75C0-401C-1D0E-8DBAF4DC3400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F370559-75C0-401C-1D0E-8DBAF4DC3400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
