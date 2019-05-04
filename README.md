@@ -2,7 +2,9 @@
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-I really like this project, because there is no specific requirements for the arrangement of the appartment and I can put the furnitures anywhere I like. This project is a good way to practice my Unity skills, because I've encountered some problems while doing it, such as Trigger Animation for the globe spin, light settings and position settinhgs. It took me 8 hours to complete it, since I am a beginner to Unity. 
+For Original Unity Asset: https://github.com/udacity/VR-Scenes-and-Objects_Build-an-Apartment/tree/master/Build%20an%20Apartment
+
+In this project, I used Unity and C# to create a 3D scene of an apartment, and I performed tasks including creating lighting, changing objects arrangement and building interactions with C# coding. 
 
 ## Versions
 - Unity 2017.4.4f1
